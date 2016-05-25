@@ -11,6 +11,7 @@
     <description>Java Image Manipulation</description>
 
     <dependencies>
+        <!-- http://www.jhlabs.com/ip/filters/download.html -->
         <dependency>
             <groupId>jh-labs</groupId>
             <artifactId>filters</artifactId>

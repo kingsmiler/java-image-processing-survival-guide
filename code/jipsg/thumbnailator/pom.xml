@@ -10,6 +10,10 @@
     <inceptionYear>2014</inceptionYear>
     <description>Java Image Processing Survival Guide Thumbnailator</description>
 
+    <properties>
+        <thumbnailator.version>0.4.8</thumbnailator.version>
+    </properties>
+
     <dependencies>
         <dependency>
             <groupId>jh-labs</groupId>
@@ -20,7 +24,7 @@
         <dependency>
             <groupId>net.coobird</groupId>
             <artifactId>thumbnailator</artifactId>
-            <version>0.4.7</version>
+            <version>0.4.8</version>
         </dependency>        
         <dependency>
             <groupId>org.github.jipsg</groupId>
