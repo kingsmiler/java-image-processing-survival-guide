@@ -17,6 +17,7 @@
         <!--<module>jai</module>-->
         <!--<module>sanselan</module>-->
         <module>twelvemonkeys</module>
+        <module>oracle-image</module>
         <!--<module>image-manipulation</module>-->
         <!--<module>thumbnailator</module>-->
     </modules>
